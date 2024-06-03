@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 # netCDF
 *.nc
+*.pptx
 __pycache__/
 *.py[cod]
 *$py.class
